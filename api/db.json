@@ -9,6 +9,16 @@
       "id": 1,
       "name": "Biscuts",
       "price": "10"
+    },
+    {
+      "name": "Chiken Fry",
+      "price": "250",
+      "id": 2
+    },
+    {
+      "name": "Pizza",
+      "price": "799",
+      "id": 3
     }
   ],
   "comments": [],
